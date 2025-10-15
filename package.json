@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "Stage 0 HNG Backend Project",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }

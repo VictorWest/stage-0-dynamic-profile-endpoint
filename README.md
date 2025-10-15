@@ -47,7 +47,7 @@ npm install
 npm start
 ```
 
-By default, the app runs on http://localhost:3000
+By default, the app runs on https://stage-0-dynamic-profile-endpoint-production.up.railway.app
 
 ---
 

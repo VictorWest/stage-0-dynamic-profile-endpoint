@@ -1,0 +1,14 @@
+{
+  "name": "stage-0-dynamic-profile-endpoint",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Victor Wariboko-West",
+  "license": "ISC",
+  "description": "Stage 0 HNG Backend Project"
+}
